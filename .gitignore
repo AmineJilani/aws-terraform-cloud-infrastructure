@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+crash.log
+crash.*.log
+
+# AWS CLI installer
+aws/
+awscliv2.zip
